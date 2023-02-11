@@ -1,5 +1,7 @@
+#include<stdio.h>
 void main()
 int a;
 intb
 intc=a+b:
+}
 }
